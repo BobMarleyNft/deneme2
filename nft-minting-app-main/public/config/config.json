@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x41701e9b578eD0Cc9b11140880dD371f3Af6432B",
+  "SCAN_LINK": "https://polygonscan.com/address/0x41701e9b578ed0cc9b11140880dd371f3af6432b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bob Marley NFT",
+  "SYMBOL": "BM",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 125000000000000000000,
+  "DISPLAY_COST": 125,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bobnftdesign",
+  "SHOW_BACKGROUND": true
+}
